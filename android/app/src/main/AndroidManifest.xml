@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fluttix">
+    package="om.gunaaplikasinusantara.flutix">
    <application
-        android:label="fluttix"
+        android:label="Fluttix"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

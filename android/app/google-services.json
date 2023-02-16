@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061192476159",
+    "project_id": "fluttix-16cdf",
+    "storage_bucket": "fluttix-16cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061192476159:android:033adf4c52ac4a6b14b3ca",
+        "android_client_info": {
+          "package_name": "om.gunaaplikasinusantara.flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061192476159-md3359ll7gqtqgocd1inrho7d23bjtrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwfmJMIedWyfhiw1GcJFPj6snelS6n0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061192476159-md3359ll7gqtqgocd1inrho7d23bjtrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
